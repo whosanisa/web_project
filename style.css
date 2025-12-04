@@ -1,0 +1,54 @@
+h1{
+	color:blue;
+	font-size: 75px;
+	text-align: center;
+}
+
+body{
+	background-color: #FF99CC;
+	font-family: sans-serif;
+	margin: 0;
+}
+
+ul{
+	list-style-type:none ;
+	margin: 0;
+	padding:0;
+	overflow: hidden;
+	position: relative;
+	top: 0;
+	background-color: blue;
+}
+
+li{
+	float: left;
+}
+
+li a{
+	float: left;
+	text-align: center;
+	padding: 20px;
+	color: white;
+	font-size: 30p;
+}
+
+li a:hover{
+	color: blue;
+	background-color: white;
+}
+
+
+
+img.social:hover{
+	opacity: .50;
+}
+
+div.section{
+	display: black;
+	background-color: white;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border: 5px;
+	border-color: blue;
+	border-style: solid;
+}
